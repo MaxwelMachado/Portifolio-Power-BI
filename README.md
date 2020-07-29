@@ -1,5 +1,5 @@
 # Portifolio-Power-BI
-Compartilho os meus projetos pessoas desenvolvidos em Power BI. Desde o início busco manter todos os projetos, até mesmos os primeiros para que assim possam ser visto também a evolução a cada novo projeto. 
+Compartilho meus projetos pessoais desenvolvidos em Power BI. Desde o início busco manter todos os projetos, até mesmos os primeiros para que assim também seja notada as evoluções realizadas a cada novo projeto. 
 
 1° Projeto Dashboard Faturamento de Vendas: https://app.powerbi.com/view?r=eyJrIjoiNDEyZmRiNDgtZGQyMy00YWY4LWFhMzktNzZmMzM2NzJlNGU2IiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9&pageName=ReportSection
 
