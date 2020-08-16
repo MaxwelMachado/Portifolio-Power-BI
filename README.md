@@ -13,6 +13,6 @@ Compartilho meus projetos pessoais desenvolvidos em Power BI. Desde o início bu
 
 6° Projeto  Dashboard Agência de Viagens Aéreas:https://app.powerbi.com/view?r=eyJrIjoiOTRkNjM5ZWQtNWRmYi00YjRhLTg1MmQtZDZjYjI3MWI5OTk5IiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
 
-7° Projeto  Dashboard de Vendas Comerciais:https://app.powerbi.com/view?r=eyJrIjoiNDY1NDNkYjYtN2Y2YS00NDE4LTk0YzEtNzhjNzExZmRmNWIwIiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
+7° Projeto  Dashboard de Vendas Comerciais:https://app.powerbi.com/view?r=eyJrIjoiMTZiMjc4MDAtYTc4Yi00MDk3LWI2NmMtYTMxNTU2NjkyYWIwIiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
 
 8° Projeto Dashboard Comercial: https://app.powerbi.com/view?r=eyJrIjoiOGQ1MTUzMzctYzZkYi00MjVhLWIyMDQtNjI0MGU2NzM0YzAyIiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
