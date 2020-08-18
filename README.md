@@ -16,3 +16,6 @@ Compartilho meus projetos pessoais desenvolvidos em Power BI. Desde o início bu
 7° Projeto  Dashboard de Vendas Comerciais:https://app.powerbi.com/view?r=eyJrIjoiMTZiMjc4MDAtYTc4Yi00MDk3LWI2NmMtYTMxNTU2NjkyYWIwIiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
 
 8° Projeto Dashboard Comercial: https://app.powerbi.com/view?r=eyJrIjoiOGQ1MTUzMzctYzZkYi00MjVhLWIyMDQtNjI0MGU2NzM0YzAyIiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
+
+
+9° Projeto Dashboard Comercial: https://app.powerbi.com/view?r=eyJrIjoiYWYxNGM3YTEtZjMwZS00YjYxLWFhNmYtOGI1YjM2MWU1NjIyIiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
