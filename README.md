@@ -19,3 +19,6 @@ Compartilho meus projetos pessoais desenvolvidos em Power BI. Desde o início bu
 
 
 9° Projeto Dashboard Logistica: https://app.powerbi.com/view?r=eyJrIjoiYWYxNGM3YTEtZjMwZS00YjYxLWFhNmYtOGI1YjM2MWU1NjIyIiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
+
+
+10° Projeto Dashboard Métricas Gerais: https://app.powerbi.com/view?r=eyJrIjoiZDE5N2RhYTItMGRkYS00ODE3LTlkNTctYjgwY2NkMjQ4ZjA1IiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9
