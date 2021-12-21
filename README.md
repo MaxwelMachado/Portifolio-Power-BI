@@ -34,3 +34,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZDE5N2RhYTItMGRkYS00ODE3LTlkNTctYjgwY2NkM
 
 11° Projeto Curriculum Vitae
 https://app.powerbi.com/view?r=eyJrIjoiMmY5NzY4ZjQtZWIxNy00NzkxLWIxNDItMGJiNmRhN2Q5YTAyIiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9&pageName=ReportSection
+
+12° Projeto Vendas X Metas
+https://app.powerbi.com/view?r=eyJrIjoiMGUwZDA1M2QtODczNi00YjRhLWFjNTAtNDYyMDdkNzZkMmU1IiwidCI6IjExMDhmMjM4LWNkNTItNDIzZS1iY2I0LWE3YTJjMzc1ZDg1MyJ9&pageName=ReportSectiond6cddfc6bb432077b490
